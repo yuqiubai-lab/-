@@ -13,4 +13,3 @@ The site uses relative asset paths and hash navigation, so it can be hosted unde
 Run `python -m http.server 4175 --directory site`, then open `http://localhost:4175/`.
 
 Original artwork and contact details are supplied by the portfolio owner. No third-party license is granted by this repository.
-
